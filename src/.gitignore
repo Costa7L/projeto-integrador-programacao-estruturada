@@ -1,0 +1,7 @@
+*.o
+*.out
+bin/
+obj/
+.DS_Store
+Thumbs.db
+*.log
