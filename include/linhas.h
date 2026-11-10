@@ -1,7 +1,7 @@
 #ifndef linhas_h_include
 #define linhas_h_include
 
-#define MAX_LINHAS 50
+#define MAX_LINHAS 20
 
 struct Linhas
 {
