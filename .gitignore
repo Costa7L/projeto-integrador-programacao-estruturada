@@ -4,6 +4,5 @@ bin/
 obj/
 .DS_Store
 Thumbs.db
-*.logmetro
-
+*.log
 metro
